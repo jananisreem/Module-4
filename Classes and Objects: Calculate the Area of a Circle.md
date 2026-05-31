@@ -26,5 +26,7 @@ circle.tech(r)
 ```
 ## Output
 <img width="903" height="94" alt="Screenshot 2025-10-21 090408" src="https://github.com/user-attachments/assets/70d7ac13-db60-42f6-bc46-c1f02d367fa1" />
+
 ## Result
+
 Successfully wrote a  Python program that calculates the **area of a circle** based on the radius provided by the user. This program uses a class named `cse` and a method `mech` to perform the calculation.
